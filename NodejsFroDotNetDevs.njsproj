@@ -30,6 +30,7 @@
     <DebugSymbols>true</DebugSymbols>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="models.js" />
     <Compile Include="node_modules\connect\index.js" />
     <Compile Include="node_modules\connect\lib\cache.js" />
     <Compile Include="node_modules\connect\lib\connect.js" />
