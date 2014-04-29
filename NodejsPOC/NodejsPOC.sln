@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.30324.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "NodejsFroDotNetDevs", "..\NodejsFroDotNetDevs.njsproj", "{68911EA6-E72B-4210-993F-E725B86F5F87}"
 EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "NodejsWithHttps", "NodejsWithHttps\NodejsWithHttps.njsproj", "{5615E2E5-1159-40C3-8BEC-4BF23FF18D04}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{68911EA6-E72B-4210-993F-E725B86F5F87}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{68911EA6-E72B-4210-993F-E725B86F5F87}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{68911EA6-E72B-4210-993F-E725B86F5F87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5615E2E5-1159-40C3-8BEC-4BF23FF18D04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5615E2E5-1159-40C3-8BEC-4BF23FF18D04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5615E2E5-1159-40C3-8BEC-4BF23FF18D04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5615E2E5-1159-40C3-8BEC-4BF23FF18D04}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

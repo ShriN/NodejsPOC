@@ -1,0 +1,10 @@
+{
+  "name": "NodejsWithHttps",
+  "version": "0.0.0",
+  "description": "NodejsWithHttps",
+  "main": "server.js",
+  "author": {
+    "name": "Shrikant",
+    "email": ""
+  }
+}
